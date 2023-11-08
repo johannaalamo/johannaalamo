@@ -1,4 +1,4 @@
-# Hey there! 👋, I'm Johanna Alamo, a Full-Stack software developer from Spain.
+# Hey there! 👋, I'm Johanna Alamo,
 
 My passion for the world of software development is a driving force that fuels my dedication to continuous learning and growth. I thrive on staying updated with the latest tools, technologies, and trends, always hungry for new knowledge.
 
